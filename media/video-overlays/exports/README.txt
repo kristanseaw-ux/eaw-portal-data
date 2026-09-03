@@ -2,9 +2,16 @@ EAW VIDEO OVERLAY KIT - EXPORTED OVERLAYS
 Exclusive Auto Wholesale - Media Department
 
 WHAT THESE ARE
-35 overlay files, each 1440 x 1080 pixels, PNG with a transparent
-background. Drop one on a layer above your video and the vehicle shows
-through everywhere the file is empty.
+Two packs, green/ and silver/, each holding the same 57 overlays at
+1440 x 1080 pixels, PNG with a transparent background. Drop one on a
+layer above your video and the vehicle shows through everywhere the
+file is empty.
+
+GREEN PACK   accent #80FF00, the approved banner green
+SILVER PACK  accent #D9DDE3 with a chrome gradient on rules and slashes
+
+Same layouts, same file names, same badge artwork in both. Do not mix
+packs inside one video.
 
 NAMING
 01-banner-diagonal-<status>    The approved banner, motorsport texture
