@@ -19,6 +19,16 @@ NAMING
 25-chrome-end-card             Chrome badge on the hex material (closing)
 26-banner-hex-<status>         The banner with the hex material as fill
 27-wireframe-watermark         Outline badge as a corner watermark
+28-banner-<material>           The banner filled with carbon, hex mesh,
+                               diamond plate, or angular metal
+29-angular-end-card            Chrome end card on angular metal
+30-diamond-plate-rail          EAW Outfitted rail on diamond plate
+
+MATERIALS
+Five grounds live in assets/: hex 3D, angular metal, diamond plate,
+hex mesh, carbon weave. Pick one for panel fills and one for full
+frames and hold them across every video. Other status words on 28 can
+be cut once a material is chosen.
 
 11-slate and 16-number-card now sit on the hex material and are opaque.
 12-end-card (flat) is kept but 25-chrome-end-card is the recommended
