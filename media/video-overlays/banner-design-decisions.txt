@@ -1,0 +1,196 @@
+EAW Social Video Banner
+
+Conversation transcript and visual design progression
+
+EXCLUSIVE AUTO WHOLESALE
+
+SEPTEMBER 3, 2026
+
+Latest compact, full-width diagonal-texture direction.
+
+Project brief
+
+Create a branded lower-third banner overlay for social-media video, using the fonts and visual language of the
+EAW Daily Totals site. The design evolved into a 4:3 layout with the official EAW logo, dealership phone number,
+and the tagline: SEAMLESS. STRESS FREE. BUILT ON RELATIONSHIPS.
+
+EAW social-video banner design conversation
+
+Page 1
+
+Conversation
+
+KRISTA
+
+https://eaw-daily-totals.netlify.app
+
+Can you make a Canva layout for a video that will go on social media? The link I provided is an example of our
+fonts and brands. I want the overlay to be in the form of a banner.
+
+CHATGPT
+
+I reviewed the EAW brand system: warm off-white, near-black, electric lime green, Bebas Neue display type,
+and Inter supporting type. I created a lower-third banner for vertical social video with editable headline, detail
+line, and EAW branding.
+
+KRISTA
+
+Can you use our logo?
+
+CHATGPT
+
+Yes. I asked for the standalone logo so it could replace the temporary text badge without distortion.
+
+KRISTA
+
+Uploaded the official white EAW circular logo.
+
+CHATGPT
+
+The official logo was embedded into the banner, preserving its original proportions.
+
+KRISTA
+
+Can you remove the make/model and add address: 2630 Pelham Parkway, Pelham, AL 35124. Also add
+phone and remove stock: 205.406.5644.
+
+CHATGPT
+
+Removed the vehicle and stock fields, then added the dealership address and phone number.
+
+EAW social-video banner design conversation
+
+Page 2
+
+KRISTA
+
+Make the aspect ratio 4:3.
+
+CHATGPT
+
+Converted the canvas to a landscape 4:3 format at 1440 x 1080 and rebalanced the lower-third spacing.
+
+KRISTA
+
+Make the height smaller.
+
+CHATGPT
+
+Reduced the lower-third height while keeping the 4:3 canvas and maintaining readable logo, address, and
+phone placement.
+
+KRISTA
+
+Now give some mockups of texture and other transparent layer overlays.
+
+CHATGPT
+
+Created three directions: subtle carbon fiber, smoked glass with a restrained green glow, and modern diagonal
+motorsport texture with angular overlays.
+
+KRISTA
+
+The second and third are my favorites. Maybe remove the address and keep the phone. Our tagline is:
+'Seamless. Stress free. Built on relationships.' Also check the placement of the logo and words so they are
+symmetrical.
+
+CHATGPT
+
+Removed the address, kept the phone, added the tagline, balanced the logo and phone as left/right anchors,
+centered the headline and company name, and equalized margins and vertical spacing.
+
+KRISTA
+
+I like it! I think we still need to reduce the height of the footer.
+
+EAW social-video banner design conversation
+
+Page 3
+
+CHATGPT
+
+Reduced the footer height by approximately 25 percent and scaled the internal elements proportionally.
+
+KRISTA
+
+Keep width across page.
+
+CHATGPT
+
+Kept the footer spanning the full width of the 4:3 page and changed only its height. Both smoked-glass and
+diagonal-texture versions retained the symmetrical logo, centered copy, tagline, and phone.
+
+KRISTA
+
+Can you put our conversation in a PDF?
+
+EAW social-video banner design conversation
+
+Page 4
+
+Visual progression
+
+Initial vertical social-video overlay with the official logo, address, and phone.
+
+EAW social-video banner design conversation
+
+Page 5
+
+4:3 version with a shorter lower-third banner.
+
+EAW social-video banner design conversation
+
+Page 6
+
+Texture explorations
+
+Carbon-fiber concept with a soft fade above the banner.
+
+EAW social-video banner design conversation
+
+Page 7
+
+Smoked-glass concept with a restrained lime glow.
+
+EAW social-video banner design conversation
+
+Page 8
+
+Diagonal motorsport concept with angular tonal layers.
+
+EAW social-video banner design conversation
+
+Page 9
+
+Preferred directions
+
+Smoked-glass layout after removing the address and adding the centered tagline.
+
+EAW social-video banner design conversation
+
+Page 10
+
+Diagonal-texture layout after the symmetrical content revision.
+
+EAW social-video banner design conversation
+
+Page 11
+
+Latest compact, full-width options
+
+Compact smoked-glass footer spanning the page width.
+
+EAW social-video banner design conversation
+
+Page 12
+
+Compact diagonal-texture footer spanning the page width.
+
+Current direction: preserve the 4:3 canvas, maintain the footer across the full width, keep the footer compact, and retain the balanced
+logo/headline/phone arrangement with the centered EAW tagline.
+
+EAW social-video banner design conversation
+
+Page 13
+
+
