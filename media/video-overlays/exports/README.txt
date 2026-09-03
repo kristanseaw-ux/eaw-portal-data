@@ -12,14 +12,32 @@ NAMING
 03-ticker-<status>             Single-line version for long holds
 04 through 09                  Transparency set
 10 through 20                  The rest of the kit
+21-series-title-<pair>         Filled word over outlined word, chevrons
+22-chevron-lower-third         Chevrons and type, no panel
+23-chevron-wipe                Horizontal transition, outline badge
+24-wireframe-reveal            Outline badge on the hex material (opening)
+25-chrome-end-card             Chrome badge on the hex material (closing)
+26-banner-hex-<status>         The banner with the hex material as fill
+27-wireframe-watermark         Outline badge as a corner watermark
 
-Status words available on 01, 02 and 03:
+11-slate and 16-number-card now sit on the hex material and are opaque.
+12-end-card (flat) is kept but 25-chrome-end-card is the recommended
+default.
+
+Status words available on 01, 02, 03 and 26:
   just-arrived, just-traded, in-the-shop, fresh-detail,
   eaw-outfitted, sold
 
 PICK ONE TEXTURE
-01 and 02 are the same layout in the two approved textures. Choose one
-and use it on everything. Do not mix them across a batch of videos.
+01, 02 and 26 are the same layout in three textures: diagonal, smoked
+glass, and hex. Choose one and use it on everything. Do not mix them
+across a batch of videos.
+
+TWO GREENS
+The banner is #80FF00. The chevron and outline-badge artwork supplied
+later is #15FF22. Every file here is drawn in #80FF00 so it matches the
+approved banner. If #15FF22 is the real EAW green, say so and the kit
+re-exports in one pass.
 
 ABOUT THE BLUR
 Four templates were designed with a blur behind the panel: 04 glass slab,
